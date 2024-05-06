@@ -1,0 +1,7 @@
+Package: minios-usb-creator
+Version: 0.1
+Architecture: amd64
+Installed-Size: 300
+Depends: parted, jq, policykit-1, sudo
+Maintainer: FershoUno <fersh0un0@gmail.com>
+Description: MiniOS USB Creator is a tool for creating bootable USBs with MiniOS

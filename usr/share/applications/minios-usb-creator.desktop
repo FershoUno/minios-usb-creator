@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=MiniOS USB Creator
+Keywords=install;
+Exec=start-minios-usb-creator
+Icon=/opt/minios-usb-creator/usr/share/icons/hicolor/scalable/apps/MiniOS-white.svg
+Terminal=false
+Categories=GTK;System;Settings;
